@@ -24,28 +24,29 @@ design - building the framework.
 coding - converting software design into tangible code.
  testing - examine the software for any bugs and glitches
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-waterfall methodology - Linear and sequential, each phase is completed before moving on. 
+waterfall methodology 
+- Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
  changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
 
-
-agile methodology - Iterative and incremental, with multiple cycles (sprints). 
+agile methodology 
+- Iterative and incremental, with multiple cycles (sprints). 
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-waterfall methodology - Linear and sequential, each phase is completed before moving on. 
+waterfall methodology
+- Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
  changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
 
-
-agile methodology - Iterative and incremental, with multiple cycles (sprints). 
+agile methodology
+- Iterative and incremental, with multiple cycles (sprints). 
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
@@ -92,7 +93,7 @@ rapid technological advancement places considerable pressure on software enginee
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
  Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
--Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
+Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
  Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
 Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes. 
 Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
